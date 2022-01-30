@@ -1,18 +1,30 @@
 public class main {
 
+    public static void main1 (String[] Human){
+    }
+    void Human(){
+        System.out.println("Human");
+            }
+    void age() {
+        System.out.println("age");
+            }
+    void sex() {
+        System.out.println("sex");
+    }
+    void name()     {
+        System.out.println("name");
+            }
+    void lastName() {
+        System.out.println("lastName");
+
+    }
+
     private int Human;
     private String age;
     private String sex;
     private String name;
     private String lastName;
 
-    public main(int human, String age, String sex, String name, String lastName) {
-        Human = human;
-        this.age = age;
-        this.sex = sex;
-        this.name = name;
-        this.lastName = lastName;
-    }
 
 
 
